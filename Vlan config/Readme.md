@@ -1,5 +1,6 @@
 In this project i was able to demonstrate how to create VLANs and assign switch ports on a cisco 2960 switch using Cisco Packet Tracer. 
-My network setup: 
+My network setup:
+
 1 Cisco switch,
 4 PCs
 VLAN 10 - Admin Department (Ports Fa0/1-2)
